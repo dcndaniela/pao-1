@@ -1,6 +1,6 @@
 import java.util.Scanner;//un fel de include;
 
-public class Main {
+public class Main1 {
 
     public static void main(String[] args) {
         System.out.println("Hello! Say something");
